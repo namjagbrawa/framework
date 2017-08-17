@@ -1,0 +1,10 @@
+bingo=com.bingo.framework.common.serialize.support.bingo.BingoSerialization
+hessian2=com.bingo.framework.common.serialize.support.hessian.Hessian2Serialization
+java=com.bingo.framework.common.serialize.support.java.JavaSerialization
+compactedjava=com.bingo.framework.common.serialize.support.java.CompactedJavaSerialization
+json=com.bingo.framework.common.serialize.support.json.JsonSerialization
+fastjson=com.bingo.framework.common.serialize.support.json.FastJsonSerialization
+nativejava=com.bingo.framework.common.serialize.support.nativejava.NativeJavaSerialization
+kryo=com.bingo.framework.common.serialize.support.kryo.KryoSerialization
+fst=com.bingo.framework.common.serialize.support.fst.FstSerialization
+jackson=com.bingo.framework.common.serialize.support.json.JacksonSerialization

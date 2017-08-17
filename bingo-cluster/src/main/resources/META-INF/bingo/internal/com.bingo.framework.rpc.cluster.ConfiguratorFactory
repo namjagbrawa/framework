@@ -1,0 +1,2 @@
+override=com.bingo.framework.rpc.cluster.configurator.override.OverrideConfiguratorFactory
+absent=com.bingo.framework.rpc.cluster.configurator.absent.AbsentConfiguratorFactory

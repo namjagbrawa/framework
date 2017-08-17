@@ -1,0 +1,3 @@
+fixed=com.bingo.framework.common.threadpool.support.fixed.FixedThreadPool
+cached=com.bingo.framework.common.threadpool.support.cached.CachedThreadPool
+limited=com.bingo.framework.common.threadpool.support.limited.LimitedThreadPool

@@ -1,0 +1,2 @@
+memory=com.bingo.framework.common.status.support.MemoryStatusChecker
+load=com.bingo.framework.common.status.support.LoadStatusChecker

@@ -1,0 +1,15 @@
+echo=com.bingo.framework.rpc.filter.EchoFilter
+generic=com.bingo.framework.rpc.filter.GenericFilter
+genericimpl=com.bingo.framework.rpc.filter.GenericImplFilter
+token=com.bingo.framework.rpc.filter.TokenFilter
+accesslog=com.bingo.framework.rpc.filter.AccessLogFilter
+activelimit=com.bingo.framework.rpc.filter.ActiveLimitFilter
+classloader=com.bingo.framework.rpc.filter.ClassLoaderFilter
+context=com.bingo.framework.rpc.filter.ContextFilter
+consumercontext=com.bingo.framework.rpc.filter.ConsumerContextFilter
+exception=com.bingo.framework.rpc.filter.ExceptionFilter
+executelimit=com.bingo.framework.rpc.filter.ExecuteLimitFilter
+deprecated=com.bingo.framework.rpc.filter.DeprecatedFilter
+compatible=com.bingo.framework.rpc.filter.CompatibleFilter
+timeout=com.bingo.framework.rpc.filter.TimeoutFilter
+remoting=com.bingo.framework.rpc.filter.RemotingFilter

@@ -1,0 +1,3 @@
+filter=com.bingo.framework.rpc.protocol.ProtocolFilterWrapper
+listener=com.bingo.framework.rpc.protocol.ProtocolListenerWrapper
+mock=com.bingo.framework.rpc.support.MockProtocol

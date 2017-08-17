@@ -1,0 +1,5 @@
+random=com.bingo.framework.rpc.cluster.loadbalance.RandomLoadBalance
+roundrobin=com.bingo.framework.rpc.cluster.loadbalance.RoundRobinLoadBalance
+leastactive=com.bingo.framework.rpc.cluster.loadbalance.LeastActiveLoadBalance
+consistenthash=com.bingo.framework.rpc.cluster.loadbalance.ConsistentHashLoadBalance
+direct=com.bingo.framework.rpc.cluster.loadbalance.DirectLoadBalance

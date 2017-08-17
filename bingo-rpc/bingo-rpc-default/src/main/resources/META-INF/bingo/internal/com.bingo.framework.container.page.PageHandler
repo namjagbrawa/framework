@@ -1,0 +1,2 @@
+servers=com.bingo.framework.rpc.protocol.bingo.page.ServersPageHandler
+clients=com.bingo.framework.rpc.protocol.bingo.page.ClientsPageHandler

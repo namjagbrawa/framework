@@ -1,0 +1,2 @@
+bingo=com.bingo.framework.rpc.protocol.bingo.BingoCountCodec
+client=com.bingo.framework.rpc.protocol.bingo.ClientCountCodec

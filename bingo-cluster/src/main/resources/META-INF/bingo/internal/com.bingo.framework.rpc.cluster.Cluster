@@ -1,0 +1,9 @@
+mock=com.bingo.framework.rpc.cluster.support.wrapper.MockClusterWrapper
+failover=com.bingo.framework.rpc.cluster.support.FailoverCluster
+failfast=com.bingo.framework.rpc.cluster.support.FailfastCluster
+failsafe=com.bingo.framework.rpc.cluster.support.FailsafeCluster
+failback=com.bingo.framework.rpc.cluster.support.FailbackCluster
+forking=com.bingo.framework.rpc.cluster.support.ForkingCluster
+available=com.bingo.framework.rpc.cluster.support.AvailableCluster
+mergeable=com.bingo.framework.rpc.cluster.support.MergeableCluster
+broadcast=com.bingo.framework.rpc.cluster.support.BroadcastCluster

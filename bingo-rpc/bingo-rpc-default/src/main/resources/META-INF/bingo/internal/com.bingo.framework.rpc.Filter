@@ -1,0 +1,2 @@
+trace=com.bingo.framework.rpc.protocol.bingo.filter.TraceFilter
+future=com.bingo.framework.rpc.protocol.bingo.filter.FutureFilter

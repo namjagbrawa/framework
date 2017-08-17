@@ -1,0 +1,11 @@
+map=com.bingo.framework.rpc.cluster.merger.ListMerger
+set=com.bingo.framework.rpc.cluster.merger.SetMerger
+list=com.bingo.framework.rpc.cluster.merger.MapMerger
+byte=com.bingo.framework.rpc.cluster.merger.ByteArrayMerger
+char=com.bingo.framework.rpc.cluster.merger.CharArrayMerger
+short=com.bingo.framework.rpc.cluster.merger.ShortArrayMerger
+int=com.bingo.framework.rpc.cluster.merger.IntArrayMerger
+long=com.bingo.framework.rpc.cluster.merger.LongArrayMerger
+float=com.bingo.framework.rpc.cluster.merger.FloatArrayMerger
+double=com.bingo.framework.rpc.cluster.merger.DoubleArrayMerger
+boolean=com.bingo.framework.rpc.cluster.merger.BooleanArrayMerger

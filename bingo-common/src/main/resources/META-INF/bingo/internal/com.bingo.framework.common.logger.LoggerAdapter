@@ -1,0 +1,4 @@
+slf4j=com.bingo.framework.common.logger.slf4j.Slf4jLoggerAdapter
+jcl=com.bingo.framework.common.logger.jcl.JclLoggerAdapter
+log4j=com.bingo.framework.common.logger.log4j.Log4jLoggerAdapter
+jdk=com.bingo.framework.common.logger.jdk.JdkLoggerAdapter

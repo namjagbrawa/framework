@@ -1,0 +1,5 @@
+all=com.bingo.framework.remoting.transport.dispatcher.all.AllDispatcher
+direct=com.bingo.framework.remoting.transport.dispatcher.direct.DirectDispatcher
+message=com.bingo.framework.remoting.transport.dispatcher.message.MessageOnlyDispatcher
+execution=com.bingo.framework.remoting.transport.dispatcher.execution.ExecutionDispatcher
+connection=com.bingo.framework.remoting.transport.dispatcher.connection.ConnectionOrderedDispatcher

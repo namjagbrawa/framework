@@ -1,0 +1,2 @@
+server=com.bingo.framework.rpc.protocol.bingo.status.ServerStatusChecker
+threadpool=com.bingo.framework.rpc.protocol.bingo.status.ThreadPoolStatusChecker

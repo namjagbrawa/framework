@@ -1,0 +1,5 @@
+clear=com.bingo.framework.remoting.telnet.support.command.ClearTelnetHandler
+exit=com.bingo.framework.remoting.telnet.support.command.ExitTelnetHandler
+help=com.bingo.framework.remoting.telnet.support.command.HelpTelnetHandler
+status=com.bingo.framework.remoting.telnet.support.command.StatusTelnetHandler
+log=com.bingo.framework.remoting.telnet.support.command.LogTelnetHandler

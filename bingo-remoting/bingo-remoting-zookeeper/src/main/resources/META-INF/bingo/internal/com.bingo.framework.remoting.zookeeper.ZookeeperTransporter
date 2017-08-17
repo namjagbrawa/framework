@@ -1,0 +1,2 @@
+zkclient=com.bingo.framework.remoting.zookeeper.zkclient.ZkclientZookeeperTransporter
+curator=com.bingo.framework.remoting.zookeeper.curator.CuratorZookeeperTransporter

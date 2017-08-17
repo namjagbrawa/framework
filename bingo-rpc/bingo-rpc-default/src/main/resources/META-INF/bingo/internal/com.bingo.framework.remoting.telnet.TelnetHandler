@@ -1,0 +1,7 @@
+ls=com.bingo.framework.rpc.protocol.bingo.telnet.ListTelnetHandler
+ps=com.bingo.framework.rpc.protocol.bingo.telnet.PortTelnetHandler
+cd=com.bingo.framework.rpc.protocol.bingo.telnet.ChangeTelnetHandler
+pwd=com.bingo.framework.rpc.protocol.bingo.telnet.CurrentTelnetHandler
+invoke=com.bingo.framework.rpc.protocol.bingo.telnet.InvokeTelnetHandler
+trace=com.bingo.framework.rpc.protocol.bingo.telnet.TraceTelnetHandler
+count=com.bingo.framework.rpc.protocol.bingo.telnet.CountTelnetHandler
